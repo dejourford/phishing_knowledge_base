@@ -154,6 +154,6 @@ DeviceProcessEvents
 * No residual signs of access/malware in the last 24–48h
 * Ticket contains artifacts, timeline, actions, and notifications
 
-**Owner:** *SOC KB Maintainer*
-**Last Updated:** *<fill date>*
+**Owner:** *De'Jour Ford*
+**Last Updated:** *10/01/2025*
 **Related:** *Phishing Incident Response Playbook*, *Account Compromise Playbook*
